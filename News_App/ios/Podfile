@@ -1,0 +1,10 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'Runner' do
+  # Your existing pod dependencies (if any) go here
+
+  # For example, you might include Firebase dependencies like this:
+  # pod 'Firebase/Core'
+  # pod 'Firebase/Auth'
+end
